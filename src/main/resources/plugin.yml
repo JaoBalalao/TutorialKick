@@ -1,0 +1,7 @@
+name: TutorialKick
+description: A Tutorial Plugin.
+version: ${project.version}
+author: [Atlvntis]
+main: net.targon.atlvntis.tutorialkick.Main
+commands:
+  kick:
